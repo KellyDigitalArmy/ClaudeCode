@@ -107,6 +107,20 @@ Do NOT surface:
 
 ---
 
+## Companion Skills
+
+Always load and apply these skills when producing the morning brief:
+
+- **`watchlist-prioritiser`** — apply when scanning email, Teams, and WhatsApp to identify and flag contacts by project
+- **`deadline-tracker`** — apply when producing the DEADLINES & FOLLOW-UPS section
+- **`signal-router`** — apply when tagging action items for routing and producing the closing line
+- **`daily-meeting-update`** — apply when processing the CALENDAR section; use it to surface meeting prep notes, attendee context, and agenda gaps
+- **`writing-clearly-and-concisely`** — apply across all sections when finalising bullet copy; keep every line mobile-readable and free of padding
+
+These skills work as a set. Do not produce the brief without loading all five alongside this skill.
+
+---
+
 ## Routing Note
 
 If a brief item is best handled as deep work, suggest the correct Claude project:
